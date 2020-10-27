@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="TestComputation_Parameterized" project="simple-junit-examples" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testcase name="q1.computation.TestComputation_Parameterized" classname="q1.computation.TestComputation_Parameterized" time="0.001" displayname="TestComputation_Parameterized" uniqueid="[engine:junit-vintage]/[runner:q1.computation.TestComputation_Parameterized]"/>
+</testrun>
